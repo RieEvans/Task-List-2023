@@ -105,6 +105,7 @@ main {
     border-radius: .5rem;
     font-size: 1.5rem;
     margin-bottom: 1rem;
+    width:100%;
 }
 
 #tasks .task .content .text {
@@ -114,6 +115,7 @@ main {
     width: 100%;
     display: block;
     transition: .15s;
+    width:100%;
 }
 
 #tasks .task .content .text:not(:read-only) {
